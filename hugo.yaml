@@ -173,7 +173,7 @@ languages:
         items:
           - title: Hugo Profile
             content: Una plantilla Hugo altamente personalizable y centrada en dispositivos móviles para portafolio personal y blog.
-            image: /images/projects/profile.png
+            image: /my-site/images/projects/profile.png
             featured:
               name: Demo
               link: https://hugo-profile.netlify.app
@@ -190,7 +190,7 @@ languages:
                 url: https://twitter.com/intent/tweet?text=Échale+un+vistazo:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
           - title: Conversor de Imágenes
             content: Una aplicación web para convertir imágenes a pdf, png a jpg, png a jpg y png a webp sin base de datos usando django.
-            image: /images/projects/converter.jpg
+            image: /my-site/images/projects/converter.jpg
             featured:
               name: Demo
               link: https://django-converter.herokuapp.com
@@ -202,7 +202,7 @@ languages:
                 url: https://github.com/gurusabarish/converter
           - title: Hugo Profile V2
             content: Una plantilla Hugo limpia y simple para portafolio personal y blog.
-            image: /images/projects/profile2.jpg
+            image: /my-site/images/projects/profile2.jpg
             featured:
               name: Demo V2
               link: https://hugo-profile-2.netlify.app
@@ -218,14 +218,14 @@ languages:
           - title: Finalista de Google Kickstart
             content: Resolví todos los problemas con solución óptima.
             url: https://example.com
-            image: /images/achievement.jpg
+            image: /my-site/images/achievement.jpg
           - title: Ganador del Hackathon de Facebook
             content: Desarrollé un producto usando Inteligencia Artificial.
-            image: /images/achievement.jpg
+            image: /my-site/images/achievement.jpg
           - title: Hugo Profile
             content: Desarrollé un tema y obtuve más de 1K descargas por mes.
             url: "https://github.com/gurusabarish/hugo-profile"
-            image: /images/achievement.jpg
+            image: /my-site/images/achievement.jpg
           - title: Finalista de Microsoft Imagine
             content: Desarrollamos un producto que puede ayudar a otros.
           - title: Google Summer of Code
@@ -379,7 +379,7 @@ languages:
         items:
           - title: Hugo Profile
             content: Un modèle Hugo hautement personnalisable et axé sur le mobile pour portfolio personnel et blog.
-            image: /images/projects/profile.png
+            image: /my-site/images/projects/profile.png
             featured:
               name: Démo
               link: https://hugo-profile.netlify.app
@@ -396,7 +396,7 @@ languages:
                 url: https://twitter.com/intent/tweet?text=Découvrez-le:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
           - title: Convertisseur d'Images
             content: Une application web pour convertir des images en pdf, png en jpg, png en jpg et png en webp sans base de données en utilisant django.
-            image: /images/projects/converter.jpg
+            image: /my-site/images/projects/converter.jpg
             featured:
               name: Démo
               link: https://django-converter.herokuapp.com
@@ -408,7 +408,7 @@ languages:
                 url: https://github.com/gurusabarish/converter
           - title: Hugo Profile V2
             content: Un modèle Hugo propre et simple pour portfolio personnel et blog.
-            image: /images/projects/profile2.jpg
+            image: /my-site/images/projects/profile2.jpg
             featured:
               name: Démo V2
               link: https://hugo-profile-2.netlify.app
@@ -424,14 +424,14 @@ languages:
           - title: Finaliste Google Kickstart
             content: J'ai résolu tous les problèmes avec une solution optimale.
             url: https://example.com
-            image: /images/achievement.jpg
+            image: /my-site/images/achievement.jpg
           - title: Gagnant du Hackathon Facebook
             content: J'ai développé un produit utilisant l'Intelligence Artificielle.
-            image: /images/achievement.jpg
+            image: /my-site/images/achievement.jpg
           - title: Hugo Profile
             content: J'ai développé un thème et j'obtiens plus de 1K téléchargements par mois.
             url: "https://github.com/gurusabarish/hugo-profile"
-            image: /images/achievement.jpg
+            image: /my-site/images/achievement.jpg
           - title: Finaliste Microsoft Imagine
             content: Nous avons développé un produit qui peut aider les autres.
           - title: Google Summer of Code
@@ -570,7 +570,7 @@ params:
     title: "Isabella."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /my-site/images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -594,7 +594,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/my-site/images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
@@ -741,14 +741,14 @@ params:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
         url: https://example.com
-        image: /images/achievement.jpg
+        image: /my-site/images/achievement.jpg
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
-        image: /images/achievement.jpg
+        image: /my-site/images/achievement.jpg
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
         url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievement.jpg
+        image: /my-site/images/achievement.jpg
       - title: Microsoft Imagine Runner
         content: We are developed a product which can help others.
       - title: Google Summer of Code
@@ -762,7 +762,7 @@ params:
     items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+        image: /my-site/images/projects/profile.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
@@ -780,7 +780,7 @@ params:
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+        image: /my-site/images/projects/converter.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
@@ -793,7 +793,7 @@ params:
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+        image: /my-site/images/projects/profile2.jpg
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
